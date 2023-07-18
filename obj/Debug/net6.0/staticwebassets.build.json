@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "K6NyOOmRwbldzs7L/6j3zSYVL1hM9z945Wgx97Fh6jQ=",
+  "Source": "RecruitmentServer",
+  "BasePath": "_content/RecruitmentServer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
